@@ -1,0 +1,481 @@
+Username: player1
+Created @ 2020-08-08T20:07:24.646522700
+Password:  1234
+
+
+__SIGN IN__ | @ 2020-08-08T20:07:24.662542800 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:07:25.201910300 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:07:28.831926800 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-08T20:07:29.165564300 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-08T20:07:31.274429500 | Message: New
+__REPORT__ | @ 2020-08-08T20:07:35.133995900 | Message: Deck Name: New Deck0, hero : Priest
+__BUTTON CLICK__ | @ 2020-08-08T20:07:37.581816700 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-08T20:07:37.726866200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:07:38.944668700 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-08T20:07:39.122917900 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-08T20:07:41.767518700 | Message: Set Active
+__REPORT__ | @ 2020-08-08T20:07:41.767518700 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:07:43.839822200 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-08T20:07:43.839822200 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-08T20:07:47.845658 | Message: Add to deck button -> Swamp King Dred
+__ERROR__ | @ 2020-08-08T20:07:47.845658 | Message: Message : Deck hero and card class does not match
+__BUTTON CLICK__ | @ 2020-08-08T20:07:51.168365600 | Message: Add to deck button -> Polymorph
+__ERROR__ | @ 2020-08-08T20:07:51.168365600 | Message: Message : Deck hero and card class does not match
+__BUTTON CLICK__ | @ 2020-08-08T20:07:54.396050700 | Message: Add to deck button -> High Priest Amet
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:07:54.396050700 | Message: Card High Priest Amet added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:07:55.226261700 | Message: Add to deck button -> High Priest Amet
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:07:55.227604700 | Message: Card High Priest Amet added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:07:56.307568200 | Message: Add to deck button -> Temple Enforcer
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:07:56.307568200 | Message: Card Temple Enforcer added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:07:56.569250600 | Message: Add to deck button -> Temple Enforcer
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:07:56.569250600 | Message: Card Temple Enforcer added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:01.318348200 | Message: Add to deck button -> Ironfur Grizzly
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:01.318348200 | Message: Card Ironfur Grizzly added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:01.616241500 | Message: Add to deck button -> Ironfur Grizzly
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:01.618502800 | Message: Card Ironfur Grizzly added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:02.301188300 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:02.301188300 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:02.613629400 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:02.613629400 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:03.668656100 | Message: Add to deck button -> Light's Justice
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:03.668656100 | Message: Card Light's Justice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:03.997983100 | Message: Add to deck button -> Light's Justice
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:03.997983100 | Message: Card Light's Justice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:04.716344700 | Message: Add to deck button -> Lightwarden
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:04.716344700 | Message: Card Lightwarden added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:05.014105600 | Message: Add to deck button -> Lightwarden
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:05.014105600 | Message: Card Lightwarden added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:06.143035900 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:06.143035900 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:06.406253200 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:06.406253200 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:08.267650 | Message: Back
+__BUTTON CLICK__ | @ 2020-08-08T20:08:10.651208500 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-08T20:08:10.838151300 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:08:11.869638900 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-08T20:08:12.063982100 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-08T20:08:14.213794300 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-08T20:08:14.213794300 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-08T20:08:17.210166400 | Message: Back
+__BUTTON CLICK__ | @ 2020-08-08T20:08:18.315003900 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-08T20:08:18.491541400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:08:34.263154 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:08:34.264625500 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:08:37.415111200 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:08:37.530597300 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:08:39.026691300 | Message: Activated Passive -> Nurse
+__GAME REPORT__ | @ 2020-08-08T20:08:42.099802900 | Message: Activated Passive -> Warriors
+__GAME REPORT__ | @ 2020-08-08T20:08:42.103127500 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:08:49.071676100 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:08:49.072676400 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:08:49.072676400 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T20:08:49.072676400 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T20:08:49.073140 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:08:49.073140 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T20:08:49.073140 | Message: Turn Begins
+__REPORT__ | @ 2020-08-08T20:08:49.951641500 | Message: Clicked On Point: java.awt.Point[x=857,y=106], P2Board
+__GAME REPORT__ | @ 2020-08-08T20:08:54.932174700 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:08:54.933190700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:08:55.250849400 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T20:11:30.492101200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:11:31.403182500 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:11:43.029147300 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:11:43.029147300 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:11:43.095650 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:11:43.228606800 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:11:44.756694500 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T20:11:47.816172600 | Message: Activated Passive -> Mana Jump
+__EFFECTS VISITED__ | @ 2020-08-08T20:11:47.816172600 | Message: Effect: ManaJump{addedMana=1, sourcePlayerIndex=1}
+__EFFECTS VISITED__ | @ 2020-08-08T20:11:47.816172600 | Message: Effect: DoubleSpellPowers{}
+__EFFECTS VISITED__ | @ 2020-08-08T20:11:47.816172600 | Message: Effect: ManaJump{addedMana=1, sourcePlayerIndex=2}
+__EFFECTS VISITED__ | @ 2020-08-08T20:11:47.816172600 | Message: Effect: AddCost{cost=-2, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=DETERMINED_GROUP, cardGroup=FRIENDS_DECK_HAND, type=[Spell], cardClass=null, sourceCard=null}}, on Models: [models.cards.Spell@b96b3de, models.cards.Spell@21806229, models.cards.Spell@437428dc, models.cards.Spell@7b8b9df6]
+__GAME REPORT__ | @ 2020-08-08T20:11:47.816172600 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:11:53.847210600 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:11:53.848207600 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T20:11:53.848207600 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:11:53.848535100 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:11:53.848535100 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T20:11:53.848811200 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T20:11:53.850534700 | Message: Turn Begins
+__SIGN IN__ | @ 2020-08-08T20:22:01.522611200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:22:02.530388400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:22:10.325949400 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:22:10.328891900 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:22:10.401934500 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:22:10.560430200 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:22:11.810560300 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-08T20:22:13.191601 | Message: Activated Passive -> Nurse
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:13.191601 | Message: Effect: DoubleSpellPowers{}
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:13.191601 | Message: Effect: RestoreLife{life=1, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=ONE_RANDOM, cardGroup=FRIEND_MINIONS_DAMAGED, type=null, cardClass=null, sourceCard=null}}, on Models: []
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:13.191601 | Message: Effect: AddCost{cost=-2, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=DETERMINED_GROUP, cardGroup=FRIENDS_DECK_HAND, type=[Spell], cardClass=null, sourceCard=null}}, on Models: [models.cards.Spell@1e122be0, models.cards.Spell@56dc323b, models.cards.Spell@51936202, models.cards.Spell@617d98d0]
+__GAME REPORT__ | @ 2020-08-08T20:22:13.191601 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:22:16.566411900 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:22:16.566411900 | Message: Draw Card -> Ironfur Grizzly
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:16.566411900 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=RECENTLY_RECEIVED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@130ca27a]
+__GAME REPORT__ | @ 2020-08-08T20:22:16.567416100 | Message: Draw Card -> High Priest Amet
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:16.567416100 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=RECENTLY_RECEIVED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@5b73f747]
+__GAME REPORT__ | @ 2020-08-08T20:22:16.567416100 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:22:16.567416100 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:22:16.567416100 | Message: Draw Card -> High Priest Amet
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:16.567416100 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=RECENTLY_RECEIVED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@4e672c09]
+__GAME REPORT__ | @ 2020-08-08T20:22:16.568413400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:22:20.119010 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T20:22:20.119010 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:22:20.371217100 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:22:21.821394400 | Message: Draw Card -> Lightwarden
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:21.821394400 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=RECENTLY_RECEIVED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@767d0c26]
+__GAME REPORT__ | @ 2020-08-08T20:22:21.821394400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:22:22.102434900 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:22:23.190490300 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:22:23.190952300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:22:23.487921700 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:22:25.275075 | Message: Draw Card -> Hir'eek the Bat
+__EFFECTS VISITED__ | @ 2020-08-08T20:22:25.276601300 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=RECENTLY_RECEIVED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@846d8f8]
+__GAME REPORT__ | @ 2020-08-08T20:22:25.276601300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:22:25.591523400 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T20:28:57.615650600 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:28:58.530197900 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:29:12.948826200 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:29:12.950851700 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:29:14.470239200 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:29:14.606523600 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:29:16.120211900 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T20:29:17.624904400 | Message: Activated Passive -> Twice Draw
+__GAME REPORT__ | @ 2020-08-08T20:29:17.624904400 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:29:21.543867400 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:29:21.544866700 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:29:21.544866700 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T20:29:21.544866700 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T20:29:21.544866700 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:29:21.544866700 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:29:21.545871200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:29:25.946965900 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T20:29:25.946965900 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T20:29:25.947964400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:29:26.389435500 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:29:28.945702500 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:29:28.945702500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:29:29.289419300 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T20:30:11.024813700 | Message: Input: P1Board, Index: 3
+__SIGN IN__ | @ 2020-08-08T20:32:49.482031700 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:32:50.484014300 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:32:56.139784100 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:32:56.139784100 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:32:57.531637800 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:32:57.673404300 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:32:59.327943300 | Message: Activated Passive -> Nurse
+__GAME REPORT__ | @ 2020-08-08T20:33:01.203793100 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T20:33:01.203793100 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:33:05.787687300 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:33:05.788440500 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T20:33:05.788604300 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:33:05.788604300 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:33:05.788604300 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T20:33:05.789157700 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T20:33:05.790403 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:33:09.291175500 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T20:33:09.292479700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:33:09.631451600 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:33:10.702210400 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T20:33:10.702210400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:33:10.932655700 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:33:14.244090700 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T20:33:14.244090700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:33:14.685283600 | Message: Turn Ended.
+__BUTTON CLICK__ | @ 2020-08-08T20:33:59.765750700 | Message: Exit Button
+__SIGN OUT__ | @ 2020-08-08T20:33:59.767401200 | Message: No Message
+__SIGN IN__ | @ 2020-08-08T20:40:27.622168 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:40:28.833963400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:40:43.979415100 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:40:43.984364800 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:40:45.744854100 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:40:45.889312500 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:40:47.376822100 | Message: Activated Passive -> Zombie
+__GAME REPORT__ | @ 2020-08-08T20:40:48.666859800 | Message: Activated Passive -> Warriors
+__GAME REPORT__ | @ 2020-08-08T20:40:48.671860700 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:40:52.720925300 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:40:52.720925300 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:40:52.721698 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:40:52.721965600 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T20:40:52.722055800 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T20:40:52.722055800 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:40:52.723055800 | Message: Turn Begins
+__REPORT__ | @ 2020-08-08T20:40:54.284306100 | Message: Clicked On Point: java.awt.Point[x=1185,y=354], other
+__GAME REPORT__ | @ 2020-08-08T20:40:56.911108100 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:40:56.911660100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:40:57.287383700 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:40:58.409145800 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T20:40:58.409145800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:40:58.754835700 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:41:00.024068200 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T20:41:00.024068200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:41:00.374650500 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:41:01.233997800 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T20:41:01.233997800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:41:01.521125800 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:41:02.935270100 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T20:41:02.935270100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:41:03.167056700 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T20:41:18.856951600 | Message: Clicked On Point: java.awt.Point[x=672,y=89], P1Board
+__REPORT__ | @ 2020-08-08T20:41:18.859519700 | Message: Input: P1Board, Index: 4
+__SIGN IN__ | @ 2020-08-08T20:53:04.771630200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:53:05.723154500 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:53:13.019634200 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:53:13.024083800 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:53:14.094547100 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:53:14.231135 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:53:15.692927300 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T20:53:16.685353800 | Message: Activated Passive -> Free Power
+__GAME REPORT__ | @ 2020-08-08T20:53:16.685353800 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:53:20.172549100 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:53:20.172549100 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:53:20.172549100 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:53:20.172549100 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:53:20.173548700 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:53:20.173548700 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:53:20.174561200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:53:24.590921400 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T20:53:24.590921400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:53:25.021224200 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:53:25.857348 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T20:53:25.857348 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:53:26.384097 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:53:27.265095400 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T20:53:27.265095400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:53:27.668315700 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:53:28.966400200 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:53:28.966400200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:53:29.281837800 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T20:59:08.778841500 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T20:59:09.702054500 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T20:59:19.649566400 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T20:59:19.653533700 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T20:59:20.853772200 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T20:59:20.991076900 | Message: play
+__GAME REPORT__ | @ 2020-08-08T20:59:22.308840900 | Message: Activated Passive -> Zombie
+__GAME REPORT__ | @ 2020-08-08T20:59:23.363380300 | Message: Activated Passive -> Nurse
+__GAME REPORT__ | @ 2020-08-08T20:59:23.363380300 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T20:59:26.187537700 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T20:59:26.187537700 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:59:26.187537700 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:59:26.187537700 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T20:59:26.188678500 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T20:59:26.188782900 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T20:59:26.189599900 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:33.822200700 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T20:59:33.822200700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:34.158326600 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:35.186543400 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T20:59:35.186543400 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:35.501547400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:37.051173300 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T20:59:37.051173300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:37.371653800 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:38.300349500 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:59:38.302651 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:38.638300600 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:39.950032600 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T20:59:39.950032600 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:40.286397400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:41.893296800 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T20:59:41.893296800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:42.287602100 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T20:59:47.189506200 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T20:59:47.189506200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T20:59:47.587760300 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T21:00:15.888107400 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:00:16.539439200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:00:18.979154500 | Message: button -> Sign Out
+__ROOM CHANGE__ | @ 2020-08-08T21:00:19.140499100 | Message: Login
+__SIGN OUT__ | @ 2020-08-08T21:00:19.157204500 | Message: No Message
+__SIGN IN__ | @ 2020-08-08T21:02:31.344076200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:02:32.249650100 | Message: home
+__SIGN IN__ | @ 2020-08-08T21:06:44.025122300 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:06:45.223588900 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:06:54.718508100 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:06:54.718508100 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:06:57.432668600 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:06:57.557547200 | Message: play
+__GAME REPORT__ | @ 2020-08-08T21:06:59.282571500 | Message: Activated Passive -> Warriors
+__GAME REPORT__ | @ 2020-08-08T21:07:00.908492 | Message: Activated Passive -> Free Power
+__GAME REPORT__ | @ 2020-08-08T21:07:00.914362900 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T21:07:04.587432800 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T21:07:04.587432800 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T21:07:04.587432800 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:07:04.587432800 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T21:07:04.587432800 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T21:07:04.588418500 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T21:07:04.588418500 | Message: Turn Begins
+__REPORT__ | @ 2020-08-08T21:07:06.850864800 | Message: Clicked On Point: java.awt.Point[x=582,y=41], P1Board
+__GAME REPORT__ | @ 2020-08-08T21:07:14.635501500 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T21:07:14.635501500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:07:14.973804 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:07:28.824209500 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:07:28.824209500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:07:29.221516800 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T21:19:04.225380500 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:19:05.217985900 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:19:06.506735200 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:19:06.509662 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:19:14.464681 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:19:14.610638200 | Message: play
+__GAME REPORT__ | @ 2020-08-08T21:19:16.130421300 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T21:19:17.716218 | Message: Activated Passive -> Twice Draw
+__GAME REPORT__ | @ 2020-08-08T21:19:17.720349100 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T21:19:21.437280600 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:19:21.438284200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:19:26.759670100 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T21:19:26.759670100 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T21:19:26.760328300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:19:27.124056400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:19:40.109843800 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T21:19:40.109843800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:19:40.379895400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:19:43.341213600 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T21:19:43.341213600 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T21:19:43.342214300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:19:43.673891600 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T21:19:51.082457800 | Message: Clicked On Point: java.awt.Point[x=320,y=153], P1Board
+__REPORT__ | @ 2020-08-08T21:19:51.099486 | Message: Input: P1Board, Index: 2
+__SIGN IN__ | @ 2020-08-08T21:23:50.156770700 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:23:51.100644600 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:23:57.026420800 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:23:57.034162600 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:23:58.922151300 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:23:59.048119400 | Message: play
+__GAME REPORT__ | @ 2020-08-08T21:24:00.116030300 | Message: Activated Passive -> Free Power
+__GAME REPORT__ | @ 2020-08-08T21:24:01.764882 | Message: Activated Passive -> Zombie
+__GAME REPORT__ | @ 2020-08-08T21:24:01.764882 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T21:24:04.075895300 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T21:24:04.075895300 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:24:04.075895300 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T21:24:04.076901 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T21:24:04.077212600 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-08T21:24:04.077440800 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T21:24:04.078155500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:24:11.090003900 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T21:24:11.090606600 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:24:11.745973500 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T21:31:19.189653200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:31:20.205135 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:31:33.104495900 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:31:33.104495900 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:31:35.531288600 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:31:35.701884100 | Message: play
+__SIGN IN__ | @ 2020-08-08T21:37:11.757612900 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:37:12.848178600 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:37:30.024718900 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:37:30.028561600 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:37:31.770107600 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:37:31.889449300 | Message: play
+__GAME REPORT__ | @ 2020-08-08T21:37:33.855273400 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-08T21:37:35.703534900 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-08T21:37:35.703534900 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T21:37:38.945302800 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T21:37:38.945302800 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:37:38.946302 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:37:38.946302 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T21:37:38.946302 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T21:37:38.947303200 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T21:37:38.948534800 | Message: Turn Begins
+__REPORT__ | @ 2020-08-08T21:37:43.554896400 | Message: Clicked On Point: java.awt.Point[x=363,y=10], P1Board
+__GAME REPORT__ | @ 2020-08-08T21:37:48.176709900 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T21:37:48.177029300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:37:48.489642400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:37:49.587470 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T21:37:49.587470 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:37:49.914429600 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:37:51.162885400 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T21:37:51.165191100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:37:51.490438400 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:37:52.492845700 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T21:37:52.492845700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:37:52.815050 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:37:54.063744200 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T21:37:54.063744200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:37:54.422837900 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T21:38:23.173877900 | Message: Clicked On Point: java.awt.Point[x=971,y=192], other
+__REPORT__ | @ 2020-08-08T21:38:23.177874300 | Message: Input: other, Index: -1
+__SIGN IN__ | @ 2020-08-08T21:41:17.701330 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T21:41:18.584143700 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T21:41:28.011100300 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T21:41:28.014938200 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T21:41:29.030568200 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-08T21:41:29.159748700 | Message: play
+__GAME REPORT__ | @ 2020-08-08T21:41:30.868939300 | Message: Activated Passive -> Mana Jump
+__GAME REPORT__ | @ 2020-08-08T21:41:32.378108900 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-08T21:41:32.383145400 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T21:41:35.273018600 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T21:41:35.273018600 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T21:41:35.273018600 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T21:41:35.273018600 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T21:41:35.273018600 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T21:41:35.274038700 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:41:35.275568300 | Message: Turn Begins
+__REPORT__ | @ 2020-08-08T21:41:41.011872800 | Message: Clicked On Point: java.awt.Point[x=262,y=120], P2Board
+__GAME REPORT__ | @ 2020-08-08T21:41:48.595144700 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-08T21:41:48.596339500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:41:48.949694100 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:41:53.280726200 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:41:53.280726200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:41:53.617188300 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:41:56.554268400 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T21:41:56.554500800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:41:56.848537800 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T21:42:18.272490500 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T21:42:18.272490500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T21:42:18.598064800 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-08T22:11:27.108953600 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-08T22:11:28.048801400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T22:11:42.875689400 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-08T22:11:42.875689400 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-08T22:11:42.966017500 | Message: Game Begins
+__GAME REPORT__ | @ 2020-08-08T22:11:44.884278700 | Message: Activated Passive -> Zombie
+__ROOM CHANGE__ | @ 2020-08-08T22:11:46.619363100 | Message: play
+__GAME REPORT__ | @ 2020-08-08T22:11:48.815637600 | Message: Activated Passive -> Nurse
+__GAME REPORT__ | @ 2020-08-08T22:11:48.815637600 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-08T22:11:52.380607300 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-08T22:11:52.380607300 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T22:11:52.380607300 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T22:11:52.380607300 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-08T22:11:52.380607300 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-08T22:11:52.381604200 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-08T22:11:52.382304900 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:00.099719700 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-08T22:12:00.099719700 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:00.444853100 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T22:12:05.050100200 | Message: Draw Card -> AmaniWarBear
+__GAME REPORT__ | @ 2020-08-08T22:12:05.051081300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:05.392079800 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T22:12:15.660545500 | Message: Input: P2Board, Index: 4
+__GAME REPORT__ | @ 2020-08-08T22:12:16.632349100 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-08T22:12:16.632349100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:17.076730200 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T22:12:21.559930800 | Message: Clicked On Point: java.awt.Point[x=1081,y=152], other
+__REPORT__ | @ 2020-08-08T22:12:21.576120300 | Message: Input: other, Index: -1
+__REPORT__ | @ 2020-08-08T22:12:22.575659900 | Message: Clicked On Point: java.awt.Point[x=32,y=97], P2HeroPower
+__REPORT__ | @ 2020-08-08T22:12:22.580924200 | Message: Input: P2HeroPower, Index: -1
+__HERO POWER PLAYED__ | @ 2020-08-08T22:12:22.581943400 | Message: Heal
+__REPORT__ | @ 2020-08-08T22:12:24.062197800 | Message: Clicked On Point: java.awt.Point[x=78,y=31], P1Hero
+__REPORT__ | @ 2020-08-08T22:12:24.066490400 | Message: Input: P1Hero, Index: -1
+__CARD SELECTED__ | @ 2020-08-08T22:12:24.066490400 | Message: Model Selected -> Mage
+__GAME REPORT__ | @ 2020-08-08T22:12:29.552242200 | Message: Draw Card -> RaidLeader
+__GAME REPORT__ | @ 2020-08-08T22:12:29.552242200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:29.870768500 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-08T22:12:37.563295300 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-08-08T22:12:38.548699900 | Message: Input: P1Board, Index: 4
+__CARD PLAYED__ | @ 2020-08-08T22:12:38.549771600 | Message: Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-08T22:12:45.393046100 | Message: Draw Card -> Light's Justice
+__GAME REPORT__ | @ 2020-08-08T22:12:45.393046100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:12:45.728861300 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-08T22:13:09.361866300 | Message: Draw Card -> Crazed Chemist
+__GAME REPORT__ | @ 2020-08-08T22:13:09.361866300 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-08T22:13:09.698370500 | Message: Turn Ended.
+__BUTTON CLICK__ | @ 2020-08-08T22:13:21.647751700 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-08T22:13:21.829280700 | Message: home
+__BUTTON CLICK__ | @ 2020-08-08T22:13:23.557218300 | Message: button -> Exit

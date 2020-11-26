@@ -1,0 +1,9 @@
+List of commands :
+
+store		    ->	Go to store
+collections	    ->	Go to collections
+delete -player	->	Delete your account
+exit		    ->	Sign out of your account
+exit -a		    ->	Exit logic
+heartstone --help	->	Shows list of all commands in this section
+help	            ->	Shows list of all commands in this section

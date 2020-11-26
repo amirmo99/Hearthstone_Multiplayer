@@ -1,0 +1,11 @@
+List of commands :
+
+ls -s			->	Show all the models.cards you can sell
+ls -b			->	Show all the models.cards you can buy from the store
+wallet			->	Show your gems
+buy [Card's name]	->	Buy the card and adds it to your models.cards
+sell [Card's name]	->	Sell the card
+exit			->	Go back to Home
+exit -a			->	Exit logic
+heartstone --help	->	Show list of all commands in this section
+help	            ->	Shows list of all commands in this section

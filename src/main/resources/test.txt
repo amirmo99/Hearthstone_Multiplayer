@@ -1,0 +1,5 @@
+{
+  "@class" : "Util.DeckFile",
+  "player1Cards" : [ "Voidwalker", "Voidwalker", "Dreadscale", "Dreadscale", "RaidLeader", "Light's Justice", "Crazed Chemist" ],
+  "player2Cards" : [ "Polymorph", "Polymorph", "RaidLeader", "Starfire", "Sorcerer's Apprentice", "Hir'eek the Bat", "Arcane Missiles", "Swarm of locusts", "Book of specters", "Pharaoh's blessing", "Sprint", "Lightwarden" ]
+}

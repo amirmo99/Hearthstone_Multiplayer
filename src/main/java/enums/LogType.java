@@ -1,0 +1,21 @@
+package enums;
+
+public enum LogType {
+    REPORT,
+    ERROR,
+
+    SUCCESSFUL_ACTION,
+    BUTTON_CLICK,
+    ROOM_CHANGE,
+
+    SIGN_IN,
+    SIGN_OUT,
+    DELETE_ACCOUNT,
+
+    CARD_PLAYED,
+    HERO_POWER_PLAYED,
+    CARD_SELECTED,
+    ATTACK,
+    EFFECTS_VISITED,
+    GAME_REPORT,
+}

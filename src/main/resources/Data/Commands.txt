@@ -1,0 +1,22 @@
+ls -a -models.heroes
+ls -m -models.heroes
+select
+ls -a -models.cards
+ls -m -models.cards
+add
+remove
+store
+collections
+exit
+exit -a
+delete -player
+ls -s
+ls -b
+wallet
+buy [Card's name]
+sell [Card's name]
+heartstone --help
+help
+select Mage
+select Rogue
+select Warlock

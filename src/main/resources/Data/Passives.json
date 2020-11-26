@@ -1,0 +1,1223 @@
+[ [ "models.InfoPassive", {
+  "name" : "Free Power",
+  "description" : "You can use your hero power twice and it costs 1 less",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.HeroPowerModifier",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 1,
+          "selectingCardMethod" : null,
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "addedMana" : -1,
+        "usageNumber" : 2
+      } ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Mana Jump",
+  "description" : "You have 1 more mana each turn",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.ManaJump",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 2,
+          "selectingCardMethod" : null,
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "addedMana" : 1
+      } ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Nurse",
+  "description" : "After each turn, restore 1 health of a damaged minion",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.RestoreLife",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 3,
+          "selectingCardMethod" : "ONE_RANDOM",
+          "cardGroup" : "FRIEND_MINIONS_DAMAGED",
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "life" : 1
+      } ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Off Card",
+  "description" : "Your Cards cost (1) less",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.AddCost",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 4,
+          "selectingCardMethod" : "RECENTLY_RECEIVED_CARD",
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "cost" : -1
+      } ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Twice Draw",
+  "description" : "Draw 2 card each turn instead of 1",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.MultipleDraw",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 5,
+          "selectingCardMethod" : null,
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "drawEachTurn" : 2
+      } ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Warriors",
+  "description" : "if a minion dies adds 2 defense to your hero",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.DefenseAdder",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 6,
+          "selectingCardMethod" : null,
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "addedDefense" : 2
+      } ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ], [ "models.InfoPassive", {
+  "name" : "Zombie",
+  "description" : "Change your hero power and it costs 0",
+  "effects" : {
+    "@type" : "logic.CardEffects",
+    "passive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ {
+        "@class" : "logic.GameEffects.HeroPowerChanger",
+        "sourcePlayerIndex" : 0,
+        "filter" : {
+          "@type" : "logic.CardFilter",
+          "@id" : 7,
+          "selectingCardMethod" : null,
+          "cardGroup" : null,
+          "type" : null,
+          "cardClass" : null,
+          "sourceCard" : null
+        },
+        "targetHeroPower" : {
+          "@class" : "models.HeroPower",
+          "name" : "Zombie",
+          "mana" : 0,
+          "actionEachTurn" : 1,
+          "actionsLeft" : 1,
+          "description" : "Uses your whole mana. Revive a minion who died in this game with mana less those of yours",
+          "effects" : {
+            "@type" : "logic.CardEffects",
+            "passive" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "battleCry" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ {
+                "@class" : "logic.GameEffects.ReviveDead",
+                "sourcePlayerIndex" : 0,
+                "filter" : null
+              } ] ],
+              "chooseRandom" : false
+            },
+            "deathRattle" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "overKill" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "combo" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onExit" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onTurnEnd" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onTurnBegin" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onDraw" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onPlay" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onOpponentPlay" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onSummon" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onOpponentSummon" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onAnyCharacterHeal" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onTakingDamage" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onAnyMinionDeath" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onCardReceive" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "onTransform" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "missionReward" : {
+              "@type" : "logic.GameEffects.EffectList",
+              "sourcePlayerIndex" : 0,
+              "filter" : null,
+              "effects" : [ "java.util.ArrayList", [ ] ],
+              "chooseRandom" : false
+            },
+            "sourcePlayer" : 0
+          },
+          "situation" : "NEUTRAL",
+          "passive" : false
+        }
+      } ] ],
+      "chooseRandom" : false
+    },
+    "battleCry" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "deathRattle" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "overKill" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "combo" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onExit" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnEnd" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTurnBegin" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onDraw" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentPlay" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onOpponentSummon" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyCharacterHeal" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTakingDamage" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onAnyMinionDeath" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onCardReceive" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "onTransform" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "missionReward" : {
+      "@type" : "logic.GameEffects.EffectList",
+      "sourcePlayerIndex" : 0,
+      "filter" : null,
+      "effects" : [ "java.util.ArrayList", [ ] ],
+      "chooseRandom" : false
+    },
+    "sourcePlayer" : 0
+  }
+} ] ]

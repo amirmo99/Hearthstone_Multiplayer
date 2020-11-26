@@ -1,0 +1,93 @@
+Username: cpu
+Created @ 2020-08-09T20:18:45.437587400
+Password:  1234
+
+
+__SIGN IN__ | @ 2020-08-09T20:18:45.622076900 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-09T20:18:46.311791200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:18:47.759774700 | Message: button -> Ranks
+__ROOM CHANGE__ | @ 2020-08-09T20:18:47.999677 | Message: Ranks
+__SIGN IN__ | @ 2020-08-09T20:21:19.561062300 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-09T20:21:20.400810700 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:21:21.198391800 | Message: button -> Ranks
+__ROOM CHANGE__ | @ 2020-08-09T20:21:21.412183200 | Message: Ranks
+__SIGN IN__ | @ 2020-08-09T20:23:11.837366600 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-09T20:23:12.714369600 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:23:13.761784200 | Message: button -> Ranks
+__ROOM CHANGE__ | @ 2020-08-09T20:23:13.966406700 | Message: Ranks
+__BUTTON CLICK__ | @ 2020-08-09T20:23:16.243025500 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-09T20:23:16.423605300 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:23:17.707542400 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-09T20:23:18.165613800 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-09T20:23:20.188242500 | Message: New
+__REPORT__ | @ 2020-08-09T20:23:21.952723300 | Message: Deck Name: New Deck0, hero : Hunter
+__BUTTON CLICK__ | @ 2020-08-09T20:23:23.441473 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-09T20:23:23.627273300 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:23:24.784342300 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-09T20:23:24.929437600 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-09T20:23:26.410560100 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-09T20:23:26.410560100 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:27.252368500 | Message: Back
+__BUTTON CLICK__ | @ 2020-08-09T20:23:28.371123 | Message: Set Active
+__REPORT__ | @ 2020-08-09T20:23:28.371123 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:29.814140600 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-09T20:23:29.814140600 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:31.550017300 | Message: Add to deck button -> RaidLeader
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:31.550017300 | Message: Card RaidLeader added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:31.727898700 | Message: Add to deck button -> RaidLeader
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:31.732605800 | Message: Card RaidLeader added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:32.035013300 | Message: Add to deck button -> AmaniWarBear
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:32.035013300 | Message: Card AmaniWarBear added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:32.241996800 | Message: Add to deck button -> AmaniWarBear
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:32.243428600 | Message: Card AmaniWarBear added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:32.599469400 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:32.599469400 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:32.766592500 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:32.766592500 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:33.165055700 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:33.165055700 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:33.317092700 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:33.332264 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:34.857635400 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:34.873022800 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:35.007132400 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:35.015992600 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:35.333971 | Message: Add to deck button -> Starfire
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:35.335281800 | Message: Card Starfire added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:35.509875200 | Message: Add to deck button -> Starfire
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:35.511730700 | Message: Card Starfire added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:36.535460700 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:36.536467400 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:36.700244 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:36.700244 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:38.542062200 | Message: Add to deck button -> Incanter's Flow
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:38.542062200 | Message: Card Incanter's Flow added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:38.720943100 | Message: Add to deck button -> Incanter's Flow
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:38.720943100 | Message: Card Incanter's Flow added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:39.043373 | Message: Add to deck button -> Curio Collector
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:39.043373 | Message: Card Curio Collector added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:39.226592700 | Message: Add to deck button -> Curio Collector
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:39.228320500 | Message: Card Curio Collector added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:39.698261 | Message: Add to deck button -> Tomb Warden
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:39.707877100 | Message: Card Tomb Warden added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:39.870383500 | Message: Add to deck button -> Tomb Warden
+__SUCCESSFUL ACTION__ | @ 2020-08-09T20:23:39.884878800 | Message: Card Tomb Warden added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:40.539419800 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-09T20:23:40.727550200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:23:41.902704100 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-09T20:23:42.109117600 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-09T20:23:44.438176800 | Message: Back
+__BUTTON CLICK__ | @ 2020-08-09T20:23:46.514476100 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-09T20:23:46.516054900 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-09T20:23:48.207235900 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-09T20:23:48.424649100 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:23:50.683458500 | Message: button -> Sign Out
+__ROOM CHANGE__ | @ 2020-08-09T20:23:50.884033100 | Message: Login
+__SIGN OUT__ | @ 2020-08-09T20:23:50.884033100 | Message: No Message
+__SIGN IN__ | @ 2020-08-09T20:39:29.903352100 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-09T20:39:30.658532800 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:39:32.013762100 | Message: button -> Ranks
+__ROOM CHANGE__ | @ 2020-08-09T20:39:32.241146 | Message: Ranks
+__BUTTON CLICK__ | @ 2020-08-09T20:39:34.766755700 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-09T20:39:34.978208400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:40:25.882044600 | Message: button -> Exit

@@ -1,0 +1,242 @@
+Username: player2
+Created @ 2020-08-09T20:12:18.080256200
+Password:  1234
+
+
+__SIGN IN__ | @ 2020-08-09T20:12:18.231391100 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-09T20:12:18.973180500 | Message: home
+__BUTTON CLICK__ | @ 2020-08-09T20:12:20.536488900 | Message: button -> Ranks
+__ROOM CHANGE__ | @ 2020-08-09T20:12:20.726586300 | Message: Ranks
+__SIGN IN__ | @ 2020-08-12T20:37:54.644069 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-12T20:37:55.422039500 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T20:38:08.037677800 | Message: button -> Play Online
+__ERROR__ | @ 2020-08-12T20:38:08.054617500 | Message: Message : Activate a deck in collections for playing
+__BUTTON CLICK__ | @ 2020-08-12T20:38:11.807915600 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-12T20:38:12.303608400 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-12T20:38:13.966854800 | Message: New
+__REPORT__ | @ 2020-08-12T20:38:16.825074700 | Message: Deck Name: New Deck0, hero : Priest
+__BUTTON CLICK__ | @ 2020-08-12T20:38:18.180876800 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-12T20:38:18.358442900 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T20:38:19.118082800 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-12T20:38:19.309038600 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-12T20:38:21.943436900 | Message: Set Active
+__REPORT__ | @ 2020-08-12T20:38:21.944456400 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:23.464971900 | Message: Select
+__BUTTON CLICK__ | @ 2020-08-12T20:38:23.464971900 | Message: Select Deck -> Deck Index : 0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:25.437225900 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:25.454228700 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:25.608528 | Message: Add to deck button -> Fireball
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:25.612989800 | Message: Card Fireball added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:25.881445200 | Message: Add to deck button -> Strength in Numbers
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:25.881445200 | Message: Card Strength in Numbers added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:26.059798500 | Message: Add to deck button -> Strength in Numbers
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:26.060560600 | Message: Card Strength in Numbers added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:26.628441200 | Message: Add to deck button -> Starfire
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:26.628441200 | Message: Card Starfire added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:26.766394900 | Message: Add to deck button -> Starfire
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:26.766394900 | Message: Card Starfire added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:27.201047800 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:27.213354100 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:27.360162100 | Message: Add to deck button -> Sorcerer's Apprentice
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:27.373154400 | Message: Card Sorcerer's Apprentice added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:27.811316800 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:27.811316800 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:27.983786600 | Message: Add to deck button -> Hir'eek the Bat
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:27.984758500 | Message: Card Hir'eek the Bat added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:28.801761800 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:28.816977700 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:28.962730100 | Message: Add to deck button -> Pyroblast
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:28.962730100 | Message: Card Pyroblast added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:29.264703600 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:29.280575900 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:29.417868900 | Message: Add to deck button -> Healing Touch
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:29.417868900 | Message: Card Healing Touch added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:29.721980500 | Message: Add to deck button -> AmaniWarBear
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:29.721980500 | Message: Card AmaniWarBear added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:29.871022100 | Message: Add to deck button -> AmaniWarBear
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:29.872409600 | Message: Card AmaniWarBear added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:31.907859500 | Message: Add to deck button -> High Priest Amet
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:31.908194400 | Message: Card High Priest Amet added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:32.044329700 | Message: Add to deck button -> High Priest Amet
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:32.053171600 | Message: Card High Priest Amet added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:32.619762600 | Message: Add to deck button -> Temple Enforcer
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:32.628697700 | Message: Card Temple Enforcer added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:32.774082900 | Message: Add to deck button -> Temple Enforcer
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:32.774082900 | Message: Card Temple Enforcer added to deck New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:33.524448900 | Message: Back
+__BUTTON CLICK__ | @ 2020-08-12T20:38:35.054689500 | Message: Set Active
+__REPORT__ | @ 2020-08-12T20:38:35.054689500 | Message: Deck Activated -> Deck name : New Deck0
+__BUTTON CLICK__ | @ 2020-08-12T20:38:35.712573100 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-12T20:38:35.910491700 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T20:38:37.002981100 | Message: button -> Collections
+__ROOM CHANGE__ | @ 2020-08-12T20:38:37.215266400 | Message: Collections
+__BUTTON CLICK__ | @ 2020-08-12T20:38:38.674845500 | Message: Back Button
+__ROOM CHANGE__ | @ 2020-08-12T20:38:38.867538600 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T20:38:39.887290100 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:38:39.887290100 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-12T20:38:40.000847900 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-12T20:38:41.137021300 | Message: play
+__GAME REPORT__ | @ 2020-08-12T20:38:47.491930200 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-12T20:38:51.662164500 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-12T20:38:51.678457700 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-12T20:38:55.200673500 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-12T20:38:55.201692200 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-12T20:38:55.201692200 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-12T20:38:55.201692200 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-12T20:38:55.201692200 | Message: Draw Card -> Strength in Numbers
+__GAME REPORT__ | @ 2020-08-12T20:38:55.201692200 | Message: Draw Card -> Sprint
+__GAME REPORT__ | @ 2020-08-12T20:38:55.202676800 | Message: Turn Begins
+__REPORT__ | @ 2020-08-12T20:39:06.072747900 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-08-12T20:39:07.282097700 | Message: Input: P1Board, Index: 5
+__GAME REPORT__ | @ 2020-08-12T20:39:09.741524700 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-12T20:39:09.742277900 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-12T20:39:10.093935400 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-12T20:39:16.683134200 | Message: Clicked On Point: java.awt.Point[x=1263,y=431], other
+__REPORT__ | @ 2020-08-12T20:39:16.698657600 | Message: Input: other, Index: -1
+__BUTTON CLICK__ | @ 2020-08-12T20:39:22.504597800 | Message: Exit Button
+__SIGN OUT__ | @ 2020-08-12T20:39:22.506980300 | Message: No Message
+__SIGN IN__ | @ 2020-08-12T20:46:07.658875100 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-12T20:46:09.103414300 | Message: play
+__SIGN IN__ | @ 2020-08-12T20:49:37.118843100 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-12T20:49:38.217070200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T20:49:45.271357500 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-12T20:49:45.284907400 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-12T20:49:45.404023900 | Message: Game Begins
+__GAME REPORT__ | @ 2020-08-12T20:49:47.153886600 | Message: Activated Passive -> Off Card
+__ROOM CHANGE__ | @ 2020-08-12T20:49:48.770538600 | Message: play
+__GAME REPORT__ | @ 2020-08-12T20:49:50.515206400 | Message: Activated Passive -> Twice Draw
+__GAME REPORT__ | @ 2020-08-12T20:49:50.520916100 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Draw Card -> Book of specters
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Draw Card -> Fireball
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Draw Card -> Arcane Missiles
+__GAME REPORT__ | @ 2020-08-12T20:49:55.935453300 | Message: Turn Begins
+__REPORT__ | @ 2020-08-12T20:50:19.394628700 | Message: Input: P1Hand, Index: 2
+__CARD PLAYED__ | @ 2020-08-12T20:50:19.397328900 | Message: Arcane Missiles
+__BUTTON CLICK__ | @ 2020-08-12T20:50:42.249556600 | Message: Exit Button
+__SIGN OUT__ | @ 2020-08-12T20:50:42.250760900 | Message: No Message
+__SIGN IN__ | @ 2020-08-12T21:01:09.891422400 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-12T21:01:10.447279900 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T21:01:17.644729500 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-12T21:01:17.648115600 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-12T21:01:17.745961400 | Message: Game Begins
+__GAME REPORT__ | @ 2020-08-12T21:01:19.264733800 | Message: Activated Passive -> Off Card
+__ROOM CHANGE__ | @ 2020-08-12T21:01:21.503513300 | Message: play
+__GAME REPORT__ | @ 2020-08-12T21:01:22.445466400 | Message: Activated Passive -> Twice Draw
+__GAME REPORT__ | @ 2020-08-12T21:01:22.450559300 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-12T21:01:26.774509 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-12T21:01:26.774509 | Message: Draw Card -> Book of specters
+__GAME REPORT__ | @ 2020-08-12T21:01:26.775526100 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-12T21:01:26.775526100 | Message: Draw Card -> Strength in Numbers
+__GAME REPORT__ | @ 2020-08-12T21:01:26.775526100 | Message: Draw Card -> Strength in Numbers
+__GAME REPORT__ | @ 2020-08-12T21:01:26.775526100 | Message: Draw Card -> Lightwarden
+__GAME REPORT__ | @ 2020-08-12T21:01:26.776513600 | Message: Turn Begins
+__BUTTON CLICK__ | @ 2020-08-12T21:02:05.258153300 | Message: Exit Button
+__SIGN OUT__ | @ 2020-08-12T21:02:05.260400800 | Message: No Message
+__SIGN IN__ | @ 2020-08-12T21:04:38.573492900 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-12T21:04:39.548048200 | Message: home
+__BUTTON CLICK__ | @ 2020-08-12T21:04:44.463031300 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-12T21:04:44.463031300 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-12T21:04:44.586002200 | Message: Game Begins
+__GAME REPORT__ | @ 2020-08-12T21:04:45.786115700 | Message: Activated Passive -> Mana Jump
+__ROOM CHANGE__ | @ 2020-08-12T21:04:48.464871200 | Message: play
+__GAME REPORT__ | @ 2020-08-12T21:04:49.505628700 | Message: Activated Passive -> Off Card
+__GAME REPORT__ | @ 2020-08-12T21:04:49.505628700 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-12T21:04:54.693619700 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-12T21:04:54.694380300 | Message: Draw Card -> Scavenger's Ingenuity
+__GAME REPORT__ | @ 2020-08-12T21:04:54.694380300 | Message: Draw Card -> Book of specters
+__GAME REPORT__ | @ 2020-08-12T21:04:54.694380300 | Message: Draw Card -> Starfire
+__GAME REPORT__ | @ 2020-08-12T21:04:54.694380300 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-12T21:04:54.694380300 | Message: Draw Card -> Arcane Missiles
+__GAME REPORT__ | @ 2020-08-12T21:04:54.696223200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-12T21:05:08.091167600 | Message: Draw Card -> Strength in Numbers
+__GAME REPORT__ | @ 2020-08-12T21:05:08.092360100 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-12T21:05:08.514601700 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-12T21:05:33.382711100 | Message: Clicked On Point: java.awt.Point[x=267,y=60], P2Hand
+__REPORT__ | @ 2020-08-12T21:05:33.382711100 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-08-12T21:05:35.454054800 | Message: Selected -> models.cards.Mission@14f1f3e6
+__REPORT__ | @ 2020-08-12T21:05:35.458484400 | Message: Input: P2Hand, Index: 2
+__CARD PLAYED__ | @ 2020-08-12T21:05:35.460487200 | Message: Strength in Numbers
+__GAME REPORT__ | @ 2020-08-12T21:05:42.093574200 | Message: Draw Card -> Pharaoh's blessing
+__GAME REPORT__ | @ 2020-08-12T21:05:42.093574200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-12T21:05:42.488916500 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-12T21:05:47.521014800 | Message: Input: P1Hand, Index: 2
+__CARD PLAYED__ | @ 2020-08-12T21:05:47.522023200 | Message: Arcane Missiles
+__BUTTON CLICK__ | @ 2020-08-12T21:06:12.525789500 | Message: Exit Button
+__SIGN OUT__ | @ 2020-08-12T21:06:12.526589500 | Message: No Message
+__SIGN IN__ | @ 2020-08-15T19:24:44.641801500 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-15T19:24:45.439038400 | Message: home
+__BUTTON CLICK__ | @ 2020-08-15T19:24:46.408101 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-15T19:24:46.564003400 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-15T19:24:49.205499300 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-15T19:24:49.424256600 | Message: play
+__GAME REPORT__ | @ 2020-08-15T19:24:50.564875 | Message: Activated Passive -> Twice Draw
+__GAME REPORT__ | @ 2020-08-15T19:24:55.060609700 | Message: Activated Passive -> Warriors
+__EFFECTS VISITED__ | @ 2020-08-15T19:24:55.091921900 | Message: Effect: MultipleDraw{drawEachTurn=2, sourcePlayerIndex=1}
+__EFFECTS VISITED__ | @ 2020-08-15T19:24:55.091921900 | Message: Effect: DoubleSpellPowers{}
+__GAME REPORT__ | @ 2020-08-15T19:24:55.107453300 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> Pharaoh's blessing
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> Healing Touch
+__GAME REPORT__ | @ 2020-08-15T19:25:00.233299500 | Message: Draw Card -> High Priest Amet
+__GAME REPORT__ | @ 2020-08-15T19:25:00.280455200 | Message: Turn Begins
+__REPORT__ | @ 2020-08-15T19:25:08.343705600 | Message: Clicked On Point: java.awt.Point[x=358,y=41], P1Hand
+__REPORT__ | @ 2020-08-15T19:25:08.343705600 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-08-15T19:25:11.047227700 | Message: Selected -> models.cards.Minion@2b252930
+__REPORT__ | @ 2020-08-15T19:25:11.057116 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-08-15T19:25:15.216402 | Message: Clicked On Point: java.awt.Point[x=610,y=64], P1Board
+__REPORT__ | @ 2020-08-15T19:25:15.247926 | Message: Input: P1Board, Index: 4
+__GAME REPORT__ | @ 2020-08-15T19:25:17.763742500 | Message: Draw Card -> Pharaoh's blessing
+__GAME REPORT__ | @ 2020-08-15T19:25:17.763742500 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-15T19:25:18.185640500 | Message: Turn Ended.
+__GAME REPORT__ | @ 2020-08-15T19:25:20.748866200 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-15T19:25:20.748866200 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-15T19:25:20.748866200 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-15T19:25:21.155067700 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-15T19:25:25.888715 | Message: Clicked On Point: java.awt.Point[x=397,y=636], other
+__REPORT__ | @ 2020-08-15T19:25:25.888715 | Message: Input: other, Index: -1
+__REPORT__ | @ 2020-08-15T19:25:28.623501700 | Message: Clicked On Point: java.awt.Point[x=353,y=18], P1Hand
+__REPORT__ | @ 2020-08-15T19:25:28.623501700 | Message: Showing Card Chooser
+__REPORT__ | @ 2020-08-15T19:25:29.874239700 | Message: Selected -> models.cards.Minion@3095701b
+__REPORT__ | @ 2020-08-15T19:25:29.889882400 | Message: Input: P1Hand, Index: 1
+__REPORT__ | @ 2020-08-15T19:25:30.608898800 | Message: Clicked On Point: java.awt.Point[x=596,y=62], P1Board
+__REPORT__ | @ 2020-08-15T19:25:30.608898800 | Message: Input: P1Board, Index: 4
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:30.608898800 | Message: Effect: ChangeHpAttack{life=-1, attack=0, targetHP=null, targetAttack=null, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=RECENTLY_PLAYED_CARD, cardGroup=null, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@1cd9370]
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:30.608898800 | Message: Effect: AddCost{cost=-1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=DETERMINED_GROUP, cardGroup=FRIENDS_ONLY_HAND, type=[Spell], cardClass=null, sourceCard=null}}, on Models: [models.cards.Spell@8990c55, models.cards.Spell@13857f2c]
+__CARD PLAYED__ | @ 2020-08-15T19:25:30.608898800 | Message: Sorcerer's Apprentice
+__GAME REPORT__ | @ 2020-08-15T19:25:36.998316800 | Message: Draw Card -> Arcane Missiles
+__GAME REPORT__ | @ 2020-08-15T19:25:36.998316800 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-15T19:25:37.373023100 | Message: Turn Ended.
+__REPORT__ | @ 2020-08-15T19:25:44.249722900 | Message: Input: P2Hand, Index: 3
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:44.249722900 | Message: Effect: ChangeHpAttack{life=-1, attack=0, targetHP=null, targetAttack=null, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=ONE_RANDOM, cardGroup=ENEMY, type=null, cardClass=null, sourceCard=null}}, on Models: [models.cards.Minion@1cd9370]
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:44.249722900 | Message: Effect: ChangeHpAttack{life=-1, attack=0, targetHP=null, targetAttack=null, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=ONE_RANDOM, cardGroup=ENEMY, type=null, cardClass=null, sourceCard=null}}, on Models: [models.heroes.Priest@7bee3bdc]
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:44.249722900 | Message: Effect: ChangeHpAttack{life=-1, attack=0, targetHP=null, targetAttack=null, sourcePlayerIndex=2, filter=CardFilter{selectingCardMethod=ONE_RANDOM, cardGroup=ENEMY, type=null, cardClass=null, sourceCard=null}}, on Models: [models.heroes.Priest@7bee3bdc]
+__CARD PLAYED__ | @ 2020-08-15T19:25:44.249722900 | Message: Arcane Missiles
+__EFFECTS VISITED__ | @ 2020-08-15T19:25:44.249722900 | Message: Effect: AddCost{cost=1, sourcePlayerIndex=1, filter=CardFilter{selectingCardMethod=DETERMINED_GROUP, cardGroup=FRIENDS_ONLY_HAND, type=[Spell], cardClass=null, sourceCard=null}}, on Models: [models.cards.Spell@8990c55, models.cards.Spell@13857f2c]
+__GAME REPORT__ | @ 2020-08-15T19:25:55.153906900 | Message: Draw Card -> Temple Enforcer
+__GAME REPORT__ | @ 2020-08-15T19:25:55.153906900 | Message: Draw Card -> Hir'eek the Bat
+__GAME REPORT__ | @ 2020-08-15T19:25:55.153906900 | Message: Turn Begins
+__GAME REPORT__ | @ 2020-08-15T19:25:55.528862700 | Message: Turn Ended.
+__SIGN IN__ | @ 2020-08-15T19:31:22.438328200 | Message: No Message
+__ROOM CHANGE__ | @ 2020-08-15T19:31:23.328915700 | Message: home
+__BUTTON CLICK__ | @ 2020-08-15T19:31:27.908603300 | Message: button -> Play Online
+__SUCCESSFUL ACTION__ | @ 2020-08-15T19:31:27.908603300 | Message: Play Access Granted
+__GAME REPORT__ | @ 2020-08-15T19:31:28.017699300 | Message: Game Begins
+__ROOM CHANGE__ | @ 2020-08-15T19:31:29.174582 | Message: play
+__GAME REPORT__ | @ 2020-08-15T19:31:31.565768500 | Message: Activated Passive -> Zombie
+__GAME REPORT__ | @ 2020-08-15T19:31:33.691375 | Message: Activated Passive -> Warriors
+__GAME REPORT__ | @ 2020-08-15T19:31:33.691375 | Message: Shuffling Cards...
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Giving players starting cards
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Draw Card -> Ironfur Grizzly
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Draw Card -> Book of specters
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Draw Card -> Strength in Numbers
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Draw Card -> Pyroblast
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Draw Card -> Arcane Missiles
+__GAME REPORT__ | @ 2020-08-15T19:31:42.084338700 | Message: Turn Begins
+__REPORT__ | @ 2020-08-15T19:31:49.190094 | Message: Input: P1Hand, Index: 2
+__CARD PLAYED__ | @ 2020-08-15T19:31:49.205717400 | Message: Arcane Missiles

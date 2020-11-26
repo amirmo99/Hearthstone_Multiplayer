@@ -1,0 +1,13 @@
+List of commands :
+
+ls -a -models.heroes		->	Shows all of your unlocked models.Heroes
+ls -m -models.heroes		->	Shows your currently selected models.heroes
+select [models.heroes name]	->	Changes your currently selected models.heroes
+ls -a -models.cards		->	Shows all of your models.cards
+ls -m -models.cards		->	Shows models.cards in your current deck
+add [Card's name]	->	Add the card to your deck
+remove [Card's name]	->	Removes the card from your deck
+exit			    ->	Go back to Home
+exit -a			    ->	Exit logic
+heartstone --help	->	Shows list of all commands in this section
+help	            ->	Shows list of all commands in this section
