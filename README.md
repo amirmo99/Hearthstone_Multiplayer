@@ -1,5 +1,5 @@
 # Hearthstone Multiplayer
-This game is the result of a project which was accomplished during the course Advanced Programming and written using java 11.0.6 . I used Gradle building tool and Intellij Community Edition software to write this game. 
+This game is the result of a project which was accomplished during the course Advanced Programming and it is written using java 11.0.6 . I used Gradle building tool and Intellij Community Edition software to write this game. 
 It is based on a similar game named Hearthstone which is available on Google Play and App Store. 
 
 When you run ServerCreator.java, the program listens on the selected TCP port (default is 8080, it can be chenaged inside ServerCreator.java) on the localhost. After that you can run multiple instances of ClientCreator.java and play.  
